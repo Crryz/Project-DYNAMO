@@ -7,10 +7,17 @@ DYNAMO will include the basics of Cozmo and hopefully I can integrate Vector's f
 DYNAMO Check List
 ==========
 ❌3D Printed Chassis
+
 ❌Motors
+
 ❌Treads
+
 ❌ESP32-S3
+
 ❌OLED Screen
+
 ❌2000mAh Battery
+
 ❌Microphone
+
 ❌Speakers
