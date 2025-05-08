@@ -14,10 +14,13 @@ For the 4th or 5th time revising this, here is his official specs and his modes 
 ==========
 AI mode, deafult:
 DYNAMO will answer any questions you have for him, will also tell you what's in front of him. He will display his answers on his screen.
+
 Wandering mode:
 He will rome around, look at things, act a little clumsy and silly. Just bein himself.
+
 Scout mode:
 He will upload his camera stream to a wifi hotspot and you can access it and view said stream. You can also control him with an XBOX controller to move his motors around.
+
 Measure mode:
 He will use his HCSR04 to tell you the distance of what he is measuring. Also he can be controlled with a controller during this time.
 
